@@ -1,2 +1,9 @@
 # zproduct_availablity_checker
-ABAP Cloud project that checks product availability using stock and movement data.
+This SAP ABAP Cloud class checks product availability by analyzing stock and product movement data.
+## Features
+- Fetches product stock
+- Joins stock and movement data
+- Outputs available quantity
+
+## Author
+Vidhi Chondagar
